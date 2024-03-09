@@ -6,7 +6,8 @@ series of transformations.
 from __future__ import annotations
 
 import datetime
-import json
+#import json
+import json_tricks as json
 import re
 from typing import TYPE_CHECKING, Any
 from warnings import warn
